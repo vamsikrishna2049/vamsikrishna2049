@@ -1,8 +1,8 @@
 # Hi there! 👋 
-## I'm Vamsi Krishna
 
-## A passionate Cloud DevOps Engineer
-### 🤝 Happy to collaborate on **Cloud and DevSecOps**
+I'm Vamsi Krishna from India.
+A passionate Cloud & DevOps Engineer.
+🤝 Happy to collaborate on **Cloud & DevSecOps Teams**
 
 ### 🛠 Languages and Tools:
 <p align="left">
