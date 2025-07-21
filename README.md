@@ -65,6 +65,18 @@ A passionate Cloud & DevOps Engineer.
     </a>
 </p>
 
+
+## ⚡ Tech Stack
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,linux,githubactions,python,java,spring,ansible,prometheus,grafana" />
+
+---
+
+## ⭐ GitHub Stars
+<p align="left">
+  <img src="https://img.shields.io/github/stars/stacksimplify?label=Stars&logo=github&color=FFD700&style=for-the-badge" alt="GitHub Stars"/>
+</p>
+
+
 ### 🔥 My Stats:
 <div align="center">
     <a href="https://git.io/streak-stats">
