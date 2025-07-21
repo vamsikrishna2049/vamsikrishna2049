@@ -67,7 +67,7 @@ A passionate Cloud & DevOps Engineer.
 
 
 ## ⚡ Tech Stack
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,linux,githubactions,python,java,spring,ansible,prometheus,grafana" />
+<img src="https://skillicons.dev/icons?i=linux,aws,azure,gcp,git,maven,trivy,docker,kubernetes,terraform,python,java,ansible,prometheus,grafana" />
 
 ---
 
